@@ -1,0 +1,24 @@
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\Interfaz_Montacargas.exe.config
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\Interfaz_Montacargas.exe
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\Interfaz_Montacargas.pdb
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.AssemblyReference.cache
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.Form1.resources
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.Properties.Resources.resources
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.GenerateResource.cache
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.CoreCompileInputs.cache
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.CopyComplete
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.exe
+C:\Users\FER\source\repos\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.pdb
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.AssemblyReference.cache
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.exe
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.pdb
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\Interfaz_Montacargas.exe.config
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\Interfaz_Montacargas.exe
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\Interfaz_Montacargas.pdb
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.Form1.resources
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.Properties.Resources.resources
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.GenerateResource.cache
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz_Montacargas.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Clemente\Documents\Interfaz_Montacargas (1)\Interfaz_Montacargas\Interfaz_Montacargas\obj\Debug\Interfaz.F83104E1.Up2Date
